@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Veekum's Data and Derived Data
+.csv
+.json
+.zip
